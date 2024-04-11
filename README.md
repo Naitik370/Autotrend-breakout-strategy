@@ -1,6 +1,4 @@
 # Autotrend-breakout-strategy
-Certainly! Below is a template you can use to create your README.md file:
-
 ---
 
 # Trendline Breakout Strategy with Machine Learning
