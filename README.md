@@ -32,7 +32,7 @@ This repository contains Python scripts for implementing a trendline breakout tr
 1. **Clone the Repository**: Clone this repository to your local machine.
 
    ```
-   git clone https://github.com/yourusername/trendline-breakout-strategy.git
+   git clone https://github.com/Naitik370/trendline-breakout-strategy.git
    ```
 
 2. **Install Dependencies**: Install the required Python libraries using pip.
