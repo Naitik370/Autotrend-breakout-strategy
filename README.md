@@ -41,7 +41,6 @@ This repository contains Python scripts for implementing a trendline breakout tr
    pip install -r requirements.txt
    ```
 
-3. **Run Example Usage**: Open and run the `example_usage.ipynb` notebook to see how to utilize the provided scripts.
 
 ## How It Works
 
